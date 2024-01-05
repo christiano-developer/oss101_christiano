@@ -1,1 +1,5 @@
+ HEAD
 head branch content after switch 
+
+addtion of content to the file in the new_mergeconflict_branch
+new_mergeconflict_branch
